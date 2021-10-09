@@ -5,12 +5,12 @@
   }
   body {
     font-family: "Lato", "Roboto Condensed", Arial, Helvetica, sans-serif;
-    background:rgb(228, 158, 158); 
+    background:rgb(228, 226, 243); 
     min-height: 100vh;
   }
   nav{
     padding:1rem 0;
-    background: #c993b0;
+    background: #57b9b9;
   }
   .container{
     width: 1152px;
@@ -33,7 +33,7 @@
   section.input h2 {
     text-align: center;
     font-size: 2.25rem;
-    color: rgb(194, 140, 140);
+    color: rgb(214, 103, 103);
     margin: 1rem;
   }
   .form-wrap {
@@ -100,7 +100,7 @@
     align-items: center;
     font-size: 1.2rem;
     font-weight: 600;
-    color:#0a6b65be;
+    color:#095f59be;
   }
   .loading {
     width: 70px;
@@ -148,7 +148,7 @@
   font-size: 12px;
   font-weight: 600;
   text-align: center;
-  opacity: .1;
+  opacity: .5;
 }
   .no-result {
     font-size: 18px;
